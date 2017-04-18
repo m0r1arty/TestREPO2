@@ -1,3 +1,5 @@
 This test file
 
 is base for linux version
+
+и это положит начало всему интересному
